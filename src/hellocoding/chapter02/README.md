@@ -1,12 +1,5 @@
 # 배열과 연결리스트
 
-||<center>배열</center>|<center>리스트</center>|
-|:---|:---:|---:|
-|<center>읽기</center>|<center>O(1)</center>|<center>O(n)</center>|
-|<center>삽입</center>|<center>O(n)</center>|<center>O(1)</center>|
-|<center>삭제</center>|<center>O(n)</center>|<center>O(1)</center>|
-
-
 ||배열|리스트|
 |:---:|:---:|:---:|
 |읽기|O(1)|O(n)|
